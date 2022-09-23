@@ -1,4 +1,16 @@
-# Selina Mohapatra
+<h1 float="left">
+  Selina Mohapatra 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="display: inline; border-width: 0px;"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/selina-mohapatra-1a5028146?trk=profile-badge">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+</h1>
+
+<div id="welcome" align="center">
+  <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="150"/>
+</div>
 
 - As I am fascinated by how technology and data are making a mark for itself in every field including, but not limited to business, communication, and health ,I am eager to use data engineering in a more practical capacity and draw more useful insights as a data scientist in future.
 - For fun I love to explore new places.
