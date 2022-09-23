@@ -1,4 +1,3 @@
-
 <h1 float="left">
   Selina Mohapatra 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="display: inline; border-width: 0px;"/>
@@ -9,7 +8,7 @@
   </div>
 </h1>
 
-<div id="header" align="center">
+<div id="welcome" align="center">
   <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="150"/>
 </div>
 
