@@ -28,12 +28,23 @@ dealing with technical as well as business requirements of the client with exper
     <br>
  </h2>
   
-<span> 
-    <a href="https://manchint.github.io/GVSU-CIS641-sunrisers_base/" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"/>
-   </a>
-</span>
-    
+<body>
+<table border="0" cellpadding="1" cellspacing="1" style="width:300px;">
+	<tbody>
+		<tr>
+			<td style="width: 200px;">
+			<h2 class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; margin: 0px 0px 0px 40px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><a href="https://manchint.github.io/GVSU-CIS641-sunrisers_base/" target="_blank">Team GitHub Page</a></h2>
+			</td>
+			<td style="width: 100px;"><a href="https://manchint.github.io/GVSU-CIS641-sunrisers_base/"><img alt="" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="width: 70px; height: 68px;" /></a></td>
+		</tr>
+	</tbody>
+</table>
+
+<h2 class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</h2>
+
+<h1 class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><u><span style="font-size:14px;">About Project:</span></u></h1>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
 
 <p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">We all want many things, but we need only a few thing. Food is an unmistakable need we as living beings have. Who doesn&rsquo;t like a good meal? Cooking is an art, but this can be made less stressful when you have the right guide. We all are familiar with cook books where we can browse through recipes, but who uses cook books these days?</span></span></p>
 
@@ -51,7 +62,7 @@ dealing with technical as well as business requirements of the client with exper
 
 <p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">We plan to use the below technologies:</span></span></p>
 
-<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:600px;">
+<table align="left" border="0" cellpadding="1" cellspacing="1" style="height:120px;width:600px;">
 	<tbody>
 		<tr>
 			<td style="width: 80px; height: 80px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><img alt="" src="https://media.giphy.com/media/mAZf4H4Pi0wwlj3ZAw/giphy.gif" style="height: 100px; width: 100px;" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></td>
@@ -66,10 +77,21 @@ dealing with technical as well as business requirements of the client with exper
 	</tbody>
 </table>
 
-<body>
 <p class="p1" style="margin: 0px 0px 0px 80px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
 
 <p class="p2" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px;">&nbsp;</p>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
 
 <p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">We will be following Agile methodology. This will enable us to build the application in an iterative manner. We have finished the initial planning phase based on which we have documented the set of features we will be developing in the coming sprints.</span></span></p>
 
@@ -91,11 +113,11 @@ dealing with technical as well as business requirements of the client with exper
 	<li class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Account Management Page</span></span></li>
 </ol>
 
-<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px;">
+<table align="left" border="0" cellpadding="1" cellspacing="1" style="height:120px;width:800px;">
 	<tbody>
 		<tr>
-			<td style="white-space: nowrap; width: 70px; height: 70px;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><img alt="" src="https://media.giphy.com/media/QWYF4YJycPVTEXTa9I/giphy.gif" style="font-family: &quot;Helvetica Neue&quot;; font-size: 13px; width: 70px; height: 70px;" />&nbsp; &nbsp;</span></span></td>
-			<td style="white-space: nowrap;">
+			<td style="white-space: nowrap; width: 120px; height: 120px; text-align: center;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><img alt="" src="https://media.giphy.com/media/QWYF4YJycPVTEXTa9I/giphy.gif" style="font-family: &quot;Helvetica Neue&quot;; font-size: 13px; width: 120px; height: 120px;" />&nbsp; &nbsp;</span></span></td>
+			<td>
 			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">We are planning to have milestones which will help us track the progress of the entire project.<br />
 			We decided to make every feature as one individual Milestone and each Milestone will have subtasks like UI, Backend, Integration, Testing.</span></span></p>
 			</td>
