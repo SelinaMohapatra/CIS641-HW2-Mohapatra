@@ -29,13 +29,13 @@ dealing with technical as well as business requirements of the client with exper
  </h2>
   
 <body>
-<table border="0" cellpadding="1" cellspacing="1" style="height:45px;width:300px;">
+<table border="0" cellpadding="1" cellspacing="1" style="height:60px;width:300px;">
 	<tbody>
 		<tr>
 			<td style="width: 200px;">
 			<h2 class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; margin: 0px 0px 0px 40px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><a href="https://manchint.github.io/GVSU-CIS641-sunrisers_base/" target="_blank">Team GitHub Page</a></h2>
 			</td>
-			<td style="width: 100px;"><a href="https://manchint.github.io/GVSU-CIS641-sunrisers_base/"><img alt="" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="width: 45px; height: 45px;" /></a></td>
+			<td style="width: 100px;"><a href="https://manchint.github.io/GVSU-CIS641-sunrisers_base/" target="_blank"><img alt="" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="width: 45px; height: 45px;" /></a></td>
 		</tr>
 	</tbody>
 </table>
@@ -101,17 +101,16 @@ dealing with technical as well as business requirements of the client with exper
 	<li class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">Account Management Page</span></span></li>
 </ol>
 
-<table align="left" border="0" cellpadding="1" cellspacing="1" style="height:80px;width:800px;">
-	<tbody>
-		<tr>
-			<td style="white-space: nowrap; width: 100px; height: 100px; text-align: center; vertical-align: middle;"><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><img alt="" src="https://media.giphy.com/media/QWYF4YJycPVTEXTa9I/giphy.gif" style="font-family: &quot;Helvetica Neue&quot;; font-size: 13px; width: 80px; height: 80px;" />&nbsp; &nbsp;</span></span></td>
-			<td colspan="3" rowspan="2" style="text-align: left; vertical-align: middle; width: 600px; height: 80px;">
-			<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;">We are planning to have milestones which will help us track the progress of the entire project.<br />
-			We decided to make every feature as one individual Milestone and each Milestone will have subtasks like UI, Backend, Integration, Testing.</span></span></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><img alt="" src="https://media.giphy.com/media/QWYF4YJycPVTEXTa9I/giphy.gif" style="text-align: center; white-space: nowrap; font-family: &quot;Helvetica Neue&quot;; font-size: 13px; width: 80px; height: 80px;" /></p>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;"><span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">We are planning to have milestones which will help us track the progress of the entire project.</span><br style="font-family: arial, helvetica, sans-serif; font-size: 14px;" />
+<span style="font-family: arial, helvetica, sans-serif; font-size: 14px;">We decided to make every feature as one individual Milestone and each Milestone will have subtasks like UI, Backend, Integration, Testing.</span></p>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
+
+<p class="p1" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;">&nbsp;</p>
 
 <p class="p2" style="margin: 0px 0px 0px 40px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px;">&nbsp;</p>
 </body>
