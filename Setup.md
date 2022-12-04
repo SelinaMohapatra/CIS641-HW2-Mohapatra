@@ -2,7 +2,8 @@
 
 Below are the steps for the backend of the project:
 
- __Install Spring Tool suite (STS) :__  
+ __Install Spring Tool suite (STS) :__ 
+ https://spring.io/tools#suite-three
  
 __Install MySQL:__ 
 
