@@ -18,7 +18,7 @@
 - Extract the file and install the STS.
 - Spring Tool Suite 4 Launcher dialog box appears on the screen. Click on the Launch button. You can change the Workspace if you want.
 - STS is launched.
-- Import the cloned project as Maven project.
+- Import the cloned project as Maven project file->Import->Maven->Existing Maven Projects
 - Open GVSU-CIS641-sunrisers_base/src/backend/cookbook/src/main/resources/application.properties and replace with the configuration of the database created.
 - Right click on Project and Run as Spring Boot App
 - To access all the API’s go to the follwoing URL: http://localhost:8081/swagger-ui/index.html
