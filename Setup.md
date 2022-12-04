@@ -1,5 +1,5 @@
 # Project Setup Instructions
-## Clone the Backend Code
+## Clone the Project
 - Clone the sourcecode from https://github.com/manchint/GVSU-CIS641-sunrisers_base
 
 ## Install MySQLServer
@@ -19,7 +19,7 @@
 - Spring Tool Suite 4 Launcher dialog box appears on the screen. Click on the Launch button. You can change the Workspace if you want.
 - STS is launched.
 - Import the cloned project as Maven project.
-- Open src/main/resources application.properties and replace with the configuration of the database created.
+- Open GVSU-CIS641-sunrisers_base/src/backend/cookbook/src/main/resources/application.properties and replace with the configuration of the database created.
 - Right click on Project and Run as Spring Boot App
 - To access all the API’s go to the follwoing URL: http://localhost:8081/swagger-ui/index.html
 
