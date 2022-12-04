@@ -1,6 +1,6 @@
 # Project Setup Instructions
 ## Clone the Backend Code
-- From a terminal window clone the backend sourcecode from  https://github.com/manchint/GVSU-CIS641-sunrisers_base/tree/master/src/backend/cookbook
+- Clone the backend sourcecode from  https://github.com/manchint/GVSU-CIS641-sunrisers_base/tree/master/src/backend/cookbook
 
 ## Install MySQLServer
 - Download MySQL from https://dev.mysql.com/downloads/mysql/
