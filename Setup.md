@@ -9,12 +9,19 @@
 - STS is launched.
 - Import the cloned project as Maven project.
 
-## Install MySQL
+## Install MySQLServer
 - Download MySQL from https://dev.mysql.com/downloads/mysql/
 - Extract the file and install the MySQL.
-- Go to System Preferences and click on MySQL to check the server is running or not and check the configurations for the path set.
-- From the terminal access the database by login in through the path specified in the configuration. eg:/usr/local/mysql/bin/mysql -u root -p
-- Create a database using the following command: CREATE DATABASE <DATABASE_NAME>;
+- Go to System Preferences and click on MySQL to check the server is running or not.
+
+## Install MySQLWorkbench
+- Download MySQLWorkbench from https://dev.mysql.com/downloads/workbench/
+- Extract the file and install the MySQL Workbench
+- Click on the MySQLWorkbench to launch.
+- Create a database/schema.
+
+Create a dummy folder for sql backend for logging purpose.
+Open src/main/resources application.properties and replace with the configuration of the database created.
 
 
 
