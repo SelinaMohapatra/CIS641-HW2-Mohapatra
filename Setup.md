@@ -13,7 +13,7 @@
 - Click on the MySQLWorkbench to launch.
 - Create a database/schema.
 
-## Install Spring Tool suite(STS)
+## Install Spring Tool Suite(STS)
 - Download Spring Tool Suite from https://spring.io/tools3/sts/all. Click on the platform which you are using.
 - Extract the file and install the STS.
 - Spring Tool Suite 4 Launcher dialog box appears on the screen. Click on the Launch button. You can change the Workspace if you want.
