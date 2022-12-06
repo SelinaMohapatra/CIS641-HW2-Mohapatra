@@ -1,4 +1,4 @@
-# Project Setup Instructions
+# Project Setup Instructions for Backend
 ## Clone the Project
 - Clone the sourcecode from https://github.com/manchint/GVSU-CIS641-sunrisers_base
 
@@ -18,14 +18,12 @@
 - Extract the file and install the STS.
 - Spring Tool Suite 4 Launcher dialog box appears on the screen. Click on the Launch button. You can change the Workspace if you want.
 - STS is launched.
-- Import the cloned project as Maven project file->Import->Maven->Existing Maven Projects
-- Open GVSU-CIS641-sunrisers_base/src/backend/cookbook/src/main/resources/application.properties and replace with the configuration of the database created.
+- Import the cloned project GVSU-CIS641-sunrisers_base/src/backend as Maven project file->Import->Maven->Existing Maven Projects
+- Create a dummy folder for sql backend for logging purpose in the path GVSU-CIS641-sunrisers_base/src/
+- Open GVSU-CIS641-sunrisers_base/src/backend/cookbook/src/main/resources/application.properties and replace with the configuration of the database created and filePath with the sql dummy folder path created.
 - Right click on Project and Run as Spring Boot App
-- To access all the API’s go to the follwoing URL: http://localhost:8081/swagger-ui/index.html
+- To access all the API’s use the following URL: http://localhost:8081/swagger-ui/index.html
 
-
-
-Create a dummy folder for sql backend for logging purpose.
 
 
 
