@@ -135,3 +135,9 @@ The purpose of the Software Requirement Specification is to define assumptions a
         </ul>
     </li>
 </ol>
+
+# Change management plan
+
+A change management plan is a document used to offer a detailed, step-by-step strategy for adopting change. The purpose of the change management plan is to help manage the change process, and also ensure control in the budget, schedule, scope, communication, and resources. The change management plan will minimize the impact a change can have on the application and the stakeholders involved thus reducing the risk and resistance while improving communication and long-term adoption of the new system or process.
+
+
