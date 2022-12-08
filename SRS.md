@@ -60,7 +60,7 @@ This section provides a comprehensive understanding of the system’s underlying
             <li>FR27: The system shall allow the registered user to upload a recipe.</li>
             <li>FR28: The system shall allow the registered user to upload an image of the recipe being uploaded.</li>
             <li>FR29: The system shall allow the registered user to add the recipe instructions of the recipe being uploaded.</li>
-            <li>FR30: The system shall validate the data entered by the user while uploading the recipe</li>
+            <li>FR30: The system shall validate the data entered by the user while uploading the recipe.</li>
             <li>FR31: The system shall display appropriate error messages if the user tries to upload an existing recipe.</li>
             <li>FR32: The system shall insert the recipe uploaded by the registered user in the database.</li>
         </ul>
