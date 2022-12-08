@@ -33,7 +33,7 @@ The purpose of the Software Requirement Specification is to define assumptions a
     <li> Search Recipe
         <ol type="1">
             <li>The system shall allow the registered user to search for recipes.</li>
-            <li>The system shall allow the registered user to add filters on the search.</li>
+            <li>The system shall allow the registered user to add filters to the search.</li>
             <li>The system shall allow the registered user to search for recipes based on the number of likes on recipes.</li>
             <li>The system shall fetch limited data per page.</li>
             <li>The system shall allow the registered user to select a recipe from the search list result.</li>
@@ -41,7 +41,7 @@ The purpose of the Software Requirement Specification is to define assumptions a
     </li>
     <li> View Recipe
         <ol type="1">
-            <li>The system shall allow the registered user to view the recipes.</li>
+            <li>The system shall allow the registered user to view the recipe selected.</li>
         </ol>
     </li>
     <li> Upload a Recipe
@@ -60,12 +60,16 @@ The purpose of the Software Requirement Specification is to define assumptions a
             <li>The system shall insert the comment added by the registered user in the database.</li>
             <li>The system shall allow the registered user to view the review published.</li>
             <li>The system shall allow the registered user to view other users' review comments on a recipe.</li>
+            <li>The system shall allow the registered user to update a review comment added by him or her on a recipe.</li>
+            <li>The system shall update the comment updated by the registered user in the database.</li>
         </ol>
     </li>
     <li> Like a Recipe
         <ol type="1">
             <li>The system shall allow the registered user to hit like on a recipe.</li>
             <li>The system shall insert the like added by the registered user in the database.</li>
+            <li>The system shall allow the registered user to remove like on a recipe already liked by him or her.</li>
+            <li>The system shall update the like removed by the registered user in the database.</li>
             <li>The system shall allow the registered user to view the total number of likes on a recipe.</li>
         </ol>
     </li>
