@@ -29,7 +29,7 @@ This section provides a comprehensive understanding of the system’s underlying
     </li>
     <li> Manage Account
         <ul type="1">
-            <li>FR11:The system shall allow the registered user to update their personal information.</li>
+            <li>FR11: The system shall allow the registered user to update their personal information.</li>
             <li>FR12: The system shall update the updated information of the registered user in the database.</li>
             <li>FR13: The system shall allow the registered user to change and update the current password.</li>
             <li>FR14: The system shall update the updated password of the registered user in the database.</li>  
@@ -80,14 +80,14 @@ This section provides a comprehensive understanding of the system’s underlying
             <li>FR39: The system shall allow the registered user to hit like on a recipe.</li>
             <li>FR40: The system shall insert the like added by the registered user in the database.</li>
             <li>FR41: The system shall allow the registered user to remove like on a recipe already liked by him or her.</li>
-            <li>FR42:The system shall update the likes removed by the registered user in the database.</li>
-            <li>FR44:The system shall allow the registered user to view the total number of likes on a recipe.</li>
+            <li>FR42: The system shall update the likes removed by the registered user in the database.</li>
+            <li>FR44: The system shall allow the registered user to view the total number of likes on a recipe.</li>
         </ul>
     </li>
     <li> Log Out
         <ul type="1">
-            <li>FR 45:The system shall allow the logged-in registered user to log out.</li>
-            <li>FR 46:The system shall redirect to the login page after the user logs out successfully.</li>
+            <li>FR45: The system shall allow the logged-in registered user to log out.</li>
+            <li>FR46: The system shall redirect to the login page after the user logs out successfully.</li>
         </ul>
     </li>
 </ol>
