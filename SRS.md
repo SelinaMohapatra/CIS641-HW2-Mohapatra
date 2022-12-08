@@ -4,7 +4,7 @@ The purpose of the Software Requirement Specification is to define assumptions a
 
 # Software Requirements
 
-This section provides a comprehensive understanding of the system’s underlying features and functionalities i.e what the system can do and the non-functional requirements which gives an insight into the system behavior and ensures the usability and effectiveness of the system. As it provides high level of understanding of the application it is useful for developers to implement the system, testers to test the functionality, end users and admins who would be using the application.
+This section provides a comprehensive understanding of the system’s underlying features and functionalities i.e what the system can do and the non-functional requirements which gives an insight into the system behavior and ensures the usability and effectiveness of the system. As it provides a high level of understanding of the application it is useful for developers to implement the system, testers to test the functionality, and end users and admins who would be using the application.
 
 ## Functional Requirements
 <ol type="1">
@@ -40,7 +40,7 @@ This section provides a comprehensive understanding of the system’s underlying
     <li> Search Recipe
         <ul type="1">
             <li>FR 17: The system shall allow the registered user to search for recipes.</li>
-            <li>FR18: he system shall allow the registered user to add filters to the search.</li>
+            <li>FR18: the system shall allow the registered user to add filters to the search.</li>
             <li>FR19: The system shall allow the registered user to search for recipes based on the number of likes on recipes.</li>
             <li>FR20: The system shall fetch limited data per page.</li>
             <li>FR21: The system shall allow the registered user to select a recipe from the search list result.</li>
@@ -49,6 +49,10 @@ This section provides a comprehensive understanding of the system’s underlying
     <li> View Recipe
         <ul type="1">
             <li>FR22: The system shall allow the registered user to view the recipe selected.</li>
+            <li>FR23: The system shall allow the registered user to save a recipe selected for future reference.</li>
+            <li>FR23: The system shall allow the registered user to view the list of saved recipes.</li>
+            <li>FR23: The system shall allow the registered user to select a recipe from the saved list of recipes.</li>
+            <li>FR23: The system shall allow the registered user to remove a recipe from the saved list of recipes.</li>
         </ul>
     </li>
     <li> Upload a Recipe
@@ -76,8 +80,8 @@ This section provides a comprehensive understanding of the system’s underlying
             <li>FR35: The system shall allow the registered user to hit like on a recipe.</li>
             <li>FR36: The system shall insert the like added by the registered user in the database.</li>
             <li>FR37: The system shall allow the registered user to remove like on a recipe already liked by him or her.</li>
-            <li>FR38 :The system shall update the likes removed by the registered user in the database.</li>
-            <li>FR39 :The system shall allow the registered user to view the total number of likes on a recipe.</li>
+            <li>FR38:The system shall update the likes removed by the registered user in the database.</li>
+            <li>FR39:The system shall allow the registered user to view the total number of likes on a recipe.</li>
         </ul>
     </li>
     <li> Log Out
@@ -117,7 +121,7 @@ This section provides a comprehensive understanding of the system’s underlying
     </li>
     <li> Reliability
         <ul type="1">
-            <li>NFR10 :The system should enable maintaining services with 0 downtimes.</li>
+            <li>NFR10:The system should enable maintaining services with 0 downtimes.</li>
             <li>NFR11: The system should be able to scale up and scale down based on the load on the website.</li>
             <li>NFR12: The system should pass all the test cases(for that feature) at any point of development.</li>
             <li>NFR13: The system should be able to perform the same when the simultaneous users are at least < 500.</li>
@@ -142,6 +146,6 @@ This section provides a comprehensive understanding of the system’s underlying
 
 # Change Management Plan
 
-A change management plan is a document used to offer a detailed, step-by-step strategy for adopting change. The purpose of the change management plan is to help manage the change process, and also ensure control in the budget, schedule, scope, communication, and resources. The change management plan will minimize the impact a change can have on the application and the stakeholders involved thus reducing the risk and resistance while improving communication and long-term adoption of the new system or process.
+A change management plan is a document used to offer a detailed, step-by-step strategy for adopting change. The purpose of the change management plan is to help manage the change process and also ensure control of the budget, schedule, scope, communication, and resources. The change management plan will minimize the impact a change can have on the application and the stakeholders involved thus reducing the risk and resistance while improving communication and long-term adoption of the new system or process.
 
 
