@@ -81,13 +81,13 @@ This section provides a comprehensive understanding of the system’s underlying
             <li>FR40: The system shall insert the like added by the registered user in the database.</li>
             <li>FR41: The system shall allow the registered user to remove like on a recipe already liked by him or her.</li>
             <li>FR42: The system shall update the likes removed by the registered user in the database.</li>
-            <li>FR44: The system shall allow the registered user to view the total number of likes on a recipe.</li>
+            <li>FR43: The system shall allow the registered user to view the total number of likes on a recipe.</li>
         </ul>
     </li>
     <li> Log Out
         <ul type="1">
-            <li>FR45: The system shall allow the logged-in registered user to log out.</li>
-            <li>FR46: The system shall redirect to the login page after the user logs out successfully.</li>
+            <li>FR44: The system shall allow the logged-in registered user to log out.</li>
+            <li>FR45: The system shall redirect to the login page after the user logs out successfully.</li>
         </ul>
     </li>
 </ol>
