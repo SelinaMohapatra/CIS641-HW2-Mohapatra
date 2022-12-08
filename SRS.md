@@ -26,8 +26,11 @@ The purpose of the Software Requirement Specification is to define assumptions a
     <li> Manage Account
         <ol type="1">
             <li>The system shall allow the registered user to update their personal information.</li>
-            <li>The system shall allow the registered user to update their personal information.</li>
             <li>The system shall update the updated information of the registered user in the database.</li>
+            <li>The system shall allow the registered user to change and update the current password.</li>
+            <li>The system shall update the updated password of the registered user in the database.</li>  
+            <li>The system shall allow the registered user to upload a profile image to the account.</li> 
+            <li>The system shall insert the profile image uploaded by the registered user in the database.</li>  
         </ol>
     </li>
     <li> Search Recipe
@@ -69,13 +72,13 @@ The purpose of the Software Requirement Specification is to define assumptions a
             <li>The system shall allow the registered user to hit like on a recipe.</li>
             <li>The system shall insert the like added by the registered user in the database.</li>
             <li>The system shall allow the registered user to remove like on a recipe already liked by him or her.</li>
-            <li>The system shall update the like removed by the registered user in the database.</li>
+            <li>The system shall update the likes removed by the registered user in the database.</li>
             <li>The system shall allow the registered user to view the total number of likes on a recipe.</li>
         </ol>
     </li>
     <li> Log Out
         <ol type="1">
-            <li>The system shall allow the registered user to log out.</li>
+            <li>The system shall allow the logged-in registered user to log out.</li>
             <li>The system shall redirect to the login page after the user logs out successfully.</li>
         </ol>
     </li>
