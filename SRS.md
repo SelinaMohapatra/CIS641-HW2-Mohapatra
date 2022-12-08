@@ -100,7 +100,7 @@ This section provides a comprehensive understanding of the system’s underlying
             <li>NFR2: The system should be supported and be available 99.99999 percent by all types of Web Browsers.</li>
             <li>NFR3: The system should have an availability of 99.99999 percent for new user sign-up.</li>
             <li>NFR4: The system should have an availability of 99.99999 percent for registered user login.</li>
-            <li>NFR5: The system should have an availability of 99.99999 percentfor the registered user to upload a recipe.</li>
+            <li>NFR5: The system should have an availability of 99.99999 percent for the registered user to upload a recipe.</li>
         </ul>
     </li>
     <li> Accessibility
