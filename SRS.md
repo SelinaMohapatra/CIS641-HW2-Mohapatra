@@ -4,7 +4,7 @@ The purpose of the Software Requirement Specification is to define assumptions a
 
 # Software Requirements
 
-This section provides a comprehensive understanding of the system’s underlying features and functionalities i.e what the system can do and the non-functional requirements which gives an insight into the system behavior and ensures the usability and effectiveness of the system. 
+This section provides a comprehensive understanding of the system’s underlying features and functionalities i.e what the system can do and the non-functional requirements which gives an insight into the system behavior and ensures the usability and effectiveness of the system. As it provides high level of understanding of the application it is useful for developers to implement the system, testers to test the functionality, end users and admins who would be using the application.
 
 ## Functional Requirements
 <ol type="1">
