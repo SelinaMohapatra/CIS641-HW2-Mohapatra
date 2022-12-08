@@ -96,50 +96,55 @@ This section provides a comprehensive understanding of the system’s underlying
 <ol type="2">
     <li> Availability
         <ul type="1">
-            <li>NFR1: The system should have an availability of 99.99999%.</li>
+            <li>NFR1: The system should have an availability of 99.99999 percent.</li>
+            <li>NFR2: The system should be supported and be available by all types of Web Browsers.</li>
+            <li>NFR3: The system should have an availability of 99.99999% for new user sign-up.</li>
+            <li>NFR4: The system should have an availability of 99.99999% for registered user login.</li>
+            <li>NFR5: The system should have an availability of 99.99999% for the registered user to upload a recipe.</li>
         </ul>
     </li>
     <li> Accessibility
         <ul type="1">
-            <li>NFR2: The system shall be rendered on screen in less than 2 seconds.</li>
-            <li>NFR3: The system should enable the users to Comment on a recipe in less than 10 seconds.</li>
-            <li>NFR4: The system should enable the users to search for a recipe in less than 10 seconds.</li>
-            <li>NFR5: The System when Restarted, should not take more than 30 seconds to go back to live.</li>
+            <li>NFR6: The system shall be rendered on screen in less than 1 second.</li>
+            <li>NFR7: The system should enable the users to search for a recipe in less than 2 seconds.</li>
+            <li>NFR8: The system should enable the users to publish a comment for a recipe in less than 2 seconds.</li>
+            <li>NFR9: The system should enable the users to upload a recipe in less than 5 seconds.</li>
+            <li>NFR10: The system should enable the users to like a recipe in less than 2 seconds.</li>
+            <li>NFR11: The system when Restarted, should not take more than 30 seconds to go back to live.</li>
         </ul>
     </li>
-     <li> Compatability
+    <li> Security
         <ul type="1">
-            <li>NFR6: The System should be supported by all types of Web Browsers.</li>
-        </ul>
-    </li>
-    <li> Restricting Users
-        <ul type="1">
-            <li>NFR7: The system should not allow users to see the personal identifiable information (PII) of other users.</li>
-            <li>NFR8: The system should not allow non-registered users to see the data.</li>
-            <li>NFR9: The system shouldn’t allow a  non-registered user to upload the recipe. A such attempt should be reported to the administrator.</li>
+            <li>NFR12: The system should not allow users to see the personal identifiable information (PII) of other users.</li>
+            <li>NFR13: The system should not allow non-registered users to see the data.</li>
+            <li>NFR14: The system shouldn’t allow a  non-registered user to upload the recipe. A such attempt should be reported to the administrator.     </li>
+            <li>NFR15: The system should not allow users to access the database. Only the administrator would have the access to the database.</li>
+            <li>NFR16: The system shall maintain data integrity by keeping backups of all updates to the database for every record transaction.<li>
         </ul>
     </li>
     <li> Reliability
         <ul type="1">
-            <li>NFR10:The system should enable maintaining services with 0 downtimes.</li>
-            <li>NFR11: The system should be able to scale up and scale down based on the load on the website.</li>
-            <li>NFR12: The system should pass all the test cases(for that feature) at any point of development.</li>
-            <li>NFR13: The system should be able to perform the same when the simultaneous users are at least < 500.</li>
+            <li>NFR17:The system should enable maintaining services with 0 downtimes.</li>
+            <li>NFR18: The system should be able to scale up and scale down based on the load on the website.</li>
+            <li>NFR19: The system should pass all the test cases(for that feature) at any point of development.</li>
+            <li>NFR20: The system should be able to perform the same when the simultaneous users are at least < 500.</li>
+            <li>NFR21: The system should allow the registered user to access and perform any updates on his or her profile 99.99999 percent of the time without failure.</li>
         </ul>
     </li>
-    <li> User Friendly
+    <li> Usability
         <ul type="1">
-            <li>NFR14: The system should be easy to use for a non-technical person.</li>
+            <li>NFR22: The system should be user-friendly and easy to use for a non-technical person.</li>
+            <li>NFR23: The error rate of users submitting the sign-up form on the system should be less than 10 percent.</li>
         </ul>
     </li>
     <li> Tracking Activities
         <ul type="1">
-            <li>NFR15: The system should log the action done on the database.</li>
+            <li>NFR24: The system should log the action done on the database.</li>
         </ul>
     </li>
     <li> Structuring
         <ul type="1">
-            <li>NFR16: The system should follow the folder structure decided by the technical architecture for further adding any feature.</li>
+            <li>NFR25: The system should follow the folder structure decided by the technical architecture for further adding any feature.</li>
         </ul>
     </li>
 </ol>
@@ -147,5 +152,3 @@ This section provides a comprehensive understanding of the system’s underlying
 # Change Management Plan
 
 A change management plan is a document used to offer a detailed, step-by-step strategy for adopting change. The purpose of the change management plan is to help manage the change process and also ensure control of the budget, schedule, scope, communication, and resources. The change management plan will minimize the impact a change can have on the application and the stakeholders involved thus reducing the risk and resistance while improving communication and long-term adoption of the new system or process.
-
-
