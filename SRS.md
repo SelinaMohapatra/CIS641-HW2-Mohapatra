@@ -5,133 +5,133 @@ The purpose of the Software Requirement Specification is to define assumptions a
 # Functional Requirements
 <ol type="1">
     <li> Sign Up
-        <ol type="1">
-            <li>The system shall register the new user when the user fills out the sign-up form provided with a valid unique
+        <ul type="1">
+            <li>FR1: The system shall register the new user when the user fills out the sign-up form provided with a valid unique
                 email address.</li>
-            <li>The system shall validate the data entered by the user while filling out the form.</li>
-            <li>The system shall display appropriate error messages if a user enters invalid data while filling out the form.</li>
-            <li>The system shall display appropriate messages after successful signup.</li>
-            <li>The system shall redirect the end user to the login screen after successful signup.</li>
-        </ol>
+            <li>FR2: The system shall validate the data entered by the user while filling out the form.</li>
+            <li>FR3: The system shall display appropriate error messages if a user enters invalid data while filling out the form.</li>
+            <li>FR4: The system shall display appropriate messages after successful signup.</li>
+            <li>FR5: The system shall redirect the end user to the login screen after successful signup.</li>
+        </ul>
     </li>
     <li> Log In
-        <ol type="1">
-            <li>The system shall allow the end user to enter his username and password on the login screen of the website.</li>
-            <li>The system shall validate user login data entered on the login screen of the website.</li>
-            <li>The system shall display appropriate error messages if a user enters an invalid username or password.</li>
-            <li>The system shall allow a user to reset his password by clicking on forgot password.</li>
-            <li>The system shall redirect the end user to the home screen after successful login.</li>
-        </ol>
+        <ul type="1">
+            <li>FR6: The system shall allow the end user to enter his username and password on the login screen of the website.</li>
+            <li>FR7: The system shall validate user login data entered on the login screen of the website.</li>
+            <li>FR8: The system shall display appropriate error messages if a user enters an invalid username or password.</li>
+            <li>FR9: The system shall allow a user to reset his password by clicking on forgot password.</li>
+            <li>FR10: The system shall redirect the end user to the home screen after successful login.</li>
+        </ul>
     </li>
     <li> Manage Account
-        <ol type="1">
-            <li>The system shall allow the registered user to update their personal information.</li>
-            <li>The system shall update the updated information of the registered user in the database.</li>
-            <li>The system shall allow the registered user to change and update the current password.</li>
-            <li>The system shall update the updated password of the registered user in the database.</li>  
-            <li>The system shall allow the registered user to upload a profile image to the account.</li> 
-            <li>The system shall insert the profile image uploaded by the registered user in the database.</li>  
-        </ol>
+        <ul type="1">
+            <li>FR11:The system shall allow the registered user to update their personal information.</li>
+            <li>FR12: The system shall update the updated information of the registered user in the database.</li>
+            <li>FR13: The system shall allow the registered user to change and update the current password.</li>
+            <li>FR14: The system shall update the updated password of the registered user in the database.</li>  
+            <li>FR15: The system shall allow the registered user to upload a profile image to the account.</li> 
+            <li>FR16: The system shall insert the profile image uploaded by the registered user in the database.</li>  
+        </ul>
     </li>
     <li> Search Recipe
-        <ol type="1">
-            <li>The system shall allow the registered user to search for recipes.</li>
-            <li>The system shall allow the registered user to add filters to the search.</li>
-            <li>The system shall allow the registered user to search for recipes based on the number of likes on recipes.</li>
-            <li>The system shall fetch limited data per page.</li>
-            <li>The system shall allow the registered user to select a recipe from the search list result.</li>
-        </ol>
+        <ul type="1">
+            <li>FR 17: The system shall allow the registered user to search for recipes.</li>
+            <li>FR18: he system shall allow the registered user to add filters to the search.</li>
+            <li>FR19: The system shall allow the registered user to search for recipes based on the number of likes on recipes.</li>
+            <li>FR20: The system shall fetch limited data per page.</li>
+            <li>FR21: The system shall allow the registered user to select a recipe from the search list result.</li>
+        </ul>
     </li>
     <li> View Recipe
-        <ol type="1">
-            <li>The system shall allow the registered user to view the recipe selected.</li>
-        </ol>
+        <ul type="1">
+            <li>FR22: The system shall allow the registered user to view the recipe selected.</li>
+        </ul>
     </li>
     <li> Upload a Recipe
-        <ol type="1">
-            <li>The system shall allow the registered user to upload a recipe.</li>
-            <li>The system shall allow the registered user to upload an image of the recipe being uploaded.</li>
-            <li>The system shall allow the registered user to add the recipe instructions of the recipe being uploaded.</li>
-            <li>The system shall validate the data entered by the user while uploading the recipe</li>
-            <li>The system shall display appropriate error messages if the user tries to upload an existing recipe.</li>
-            <li>The system shall insert the recipe uploaded by the registered user in the database.</li>
-        </ol>
+        <ul type="1">
+            <li>FR23: The system shall allow the registered user to upload a recipe.</li>
+            <li>FR24: The system shall allow the registered user to upload an image of the recipe being uploaded.</li>
+            <li>FR25: The system shall allow the registered user to add the recipe instructions of the recipe being uploaded.</li>
+            <li>FR26: The system shall validate the data entered by the user while uploading the recipe</li>
+            <li>FR27: The system shall display appropriate error messages if the user tries to upload an existing recipe.</li>
+            <li>FR28: The system shall insert the recipe uploaded by the registered user in the database.</li>
+        </ul>
     </li>
     <li> Add a Review Comment
-        <ol type="1">
-            <li>The system shall allow the registered user to add a review comment on a recipe.</li>
-            <li>The system shall insert the comment added by the registered user in the database.</li>
-            <li>The system shall allow the registered user to view the review published.</li>
-            <li>The system shall allow the registered user to view other users' review comments on a recipe.</li>
-            <li>The system shall allow the registered user to update a review comment added by him or her on a recipe.</li>
-            <li>The system shall update the comment updated by the registered user in the database.</li>
-        </ol>
+        <ul type="1">
+            <li>FR29: The system shall allow the registered user to add a review comment on a recipe.</li>
+            <li>FR30: The system shall insert the comment added by the registered user in the database.</li>
+            <li>FR31: The system shall allow the registered user to view the review published.</li>
+            <li>FR32: The system shall allow the registered user to view other users' review comments on a recipe.</li>
+            <li>FR33: The system shall allow the registered user to update a review comment added by him or her on a recipe.</li>
+            <li>FR34: The system shall update the comment updated by the registered user in the database.</li>
+        </ul>
     </li>
     <li> Like a Recipe
-        <ol type="1">
-            <li>The system shall allow the registered user to hit like on a recipe.</li>
-            <li>The system shall insert the like added by the registered user in the database.</li>
-            <li>The system shall allow the registered user to remove like on a recipe already liked by him or her.</li>
-            <li>The system shall update the likes removed by the registered user in the database.</li>
-            <li>The system shall allow the registered user to view the total number of likes on a recipe.</li>
-        </ol>
+        <ul type="1">
+            <li>FR35: The system shall allow the registered user to hit like on a recipe.</li>
+            <li>FR36: The system shall insert the like added by the registered user in the database.</li>
+            <li>FR37: The system shall allow the registered user to remove like on a recipe already liked by him or her.</li>
+            <li>FR38 :The system shall update the likes removed by the registered user in the database.</li>
+            <li>FR39 :The system shall allow the registered user to view the total number of likes on a recipe.</li>
+        </ul>
     </li>
     <li> Log Out
-        <ol type="1">
-            <li>The system shall allow the logged-in registered user to log out.</li>
-            <li>The system shall redirect to the login page after the user logs out successfully.</li>
-        </ol>
+        <ul type="1">
+            <li>FR 40:The system shall allow the logged-in registered user to log out.</li>
+            <li>FR 41:The system shall redirect to the login page after the user logs out successfully.</li>
+        </ul>
     </li>
 </ol>
 
 # Non-Functional Requirements
 <ol type="2">
     <li> Availability
-        <ol type="1">
-            <li> The system should have an availability of 99.99999%.</li>
-        </ol>
+        <ul type="1">
+            <li>NFR1: The system should have an availability of 99.99999%.</li>
+        </ul>
     </li>
     <li> Accessibility
-        <ol type="1">
-            <li>The system shall be rendered on screen in less than 2 seconds.</li>
-            <li>The system should enable the users to Comment on a recipe in less than 10 seconds.</li>
-            <li>The system should enable the users to search for a recipe in less than 10 seconds.</li>
-            <li>The System when Restarted, should not take more than 30 seconds to go back to live.</li>
-        </ol>
+        <ul type="1">
+            <li>NFR2: The system shall be rendered on screen in less than 2 seconds.</li>
+            <li>NFR3: The system should enable the users to Comment on a recipe in less than 10 seconds.</li>
+            <li>NFR4: The system should enable the users to search for a recipe in less than 10 seconds.</li>
+            <li>NFR5: The System when Restarted, should not take more than 30 seconds to go back to live.</li>
+        </ul>
     </li>
      <li> Compatability
-        <ol type="1">
-            <li>The System should be supported by all types of Web Browsers.</li>
-        </ol>
+        <ul type="1">
+            <li>NFR6: The System should be supported by all types of Web Browsers.</li>
+        </ul>
     </li>
     <li> Restricting Users
-        <ol type="1">
-            <li>The system should not allow users to see the personal identifiable information (PII) of other users.</li>
-            <li>The system should not allow non-registered users to see the data.</li>
-            <li>The system shouldn’t allow a  non-registered user to upload the recipe. A such attempt should be reported to the administrator.</li>
-        </ol>
+        <ul type="1">
+            <li>NFR7: The system should not allow users to see the personal identifiable information (PII) of other users.</li>
+            <li>NFR8: The system should not allow non-registered users to see the data.</li>
+            <li>NFR9: The system shouldn’t allow a  non-registered user to upload the recipe. A such attempt should be reported to the administrator.</li>
+        </ul>
     </li>
     <li> Reliability
-        <ol type="1">
-            <li>The system should enable maintaining services with 0 downtimes.</li>
-            <li>The system should be able to scale up and scale down based on the load on the website.</li>
-            <li>The system should pass all the test cases(for that feature) at any point of development.</li>
-            <li>The system should be able to perform the same when the simultaneous users are at least < 500.</li>
-        </ol>
+        <ul type="1">
+            <li>NFR10 :The system should enable maintaining services with 0 downtimes.</li>
+            <li>NFR11: The system should be able to scale up and scale down based on the load on the website.</li>
+            <li>NFR12: The system should pass all the test cases(for that feature) at any point of development.</li>
+            <li>NFR13: The system should be able to perform the same when the simultaneous users are at least < 500.</li>
+        </ul>
     </li>
     <li> User Friendly
-        <ol type="1">
-            <li>The system should be easy to use for a non-technical person.</li>
-        </ol>
+        <ul type="1">
+            <li>NFR14: The system should be easy to use for a non-technical person.</li>
+        </ul>
     </li>
     <li> Tracking Activities
-        <ol type="1">
-            <li>The system should log the action done on the database.</li>
-        </ol>
+        <ul type="1">
+            <li>NFR15: The system should log the action done on the database.</li>
+        </ul>
     </li>
     <li> Structuring
-        <ol type="1">
-            <li>The system should follow the folder structure decided by the technical architecture for further adding any feature.</li>
-        </ol>
+        <ul type="1">
+            <li>NFR16: The system should follow the folder structure decided by the technical architecture for further adding any feature.</li>
+        </ul>
     </li>
 </ol>
