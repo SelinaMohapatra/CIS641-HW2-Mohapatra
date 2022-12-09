@@ -143,17 +143,15 @@ This section provides a comprehensive understanding of the system’s underlying
 # Change Management Plan:
 
 The purpose of the change management plan is to help manage the change process and minimize the impact a change can have on the application and the stakeholders involved thus reducing the risk and resistance while improving communication and long-term adoption of the new system or process.
-This section will focus on the change management plan for training users, platform availability, performance and issue handling process of "The Cook Book" system. 
-
 This section provides the change management plan for "The Cook Book" application. The main focus is to provide users with training on the application, integrate it into our organization's ecosystem, and continuously monitor the system.
 
 ## Why "The Cook Book"?
 
-Learning to cook will help us understand world cultures, customs, and flavors. We will also learn life skills like eating healthy, budgeting our money, and cleaning. But cooking is not easy to learn until we have a proper guide to teach us. And this gave us a thought to develop "The Cook Book" which will be always beside you to help you learn to cook your favorite and delicious food.
+Cooking not only help us understand world cultures, customs, and flavors but also help us learn life skills like eating healthy and budgeting our money. However, in a busy schedule searching for the right recipes of choice based on the ingredients available in the kitchen is a time-consuming job. And this gave us a thought to develop "The Cook Book" a modern recipe sharing website, which aims to provide users with a variety of food recipes from healthy to various gourmet, super quick to fine culinary dishes with the ingredients available to the user.
 
 ## Training Strategy:
 
-As our primary aim is to make our application reach Students at GVSU, we came up with a strategy, to begin with, advertising our application over the Television all over the campus and through College radio which gives us better reach with less or no expense. We also display QR codes in the television advertisements which on scanning takes them to a portal where they can find more details on how to make use of this application. In addition to that, we will also prepare posters and place them all over the campus with a QR code in it.
+As our primary aim is to make our application reach Students at GVSU, we came up with a strategy, to begin with, advertising our application over the Television all over the campus and through College radio which gives us better reach with less or no expense. We will also display QR codes in the television advertisements which on scanning takes them to a portal where they can find more details on how to make use of this application. In addition to that, we will also prepare posters and place them all over the campus with a QR code in it.
 
 Once, after launching the website, an automated suggestion explaining user about the important features of this application will be displayed and this will make users get familiar with the application easily.
 
