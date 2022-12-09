@@ -15,7 +15,7 @@ This section provides a comprehensive understanding of the system’s underlying
             <li>FR2: The system shall validate the data entered by the user while filling out the form.</li>
             <li>FR3: The system shall display appropriate error messages if a user enters invalid data while filling out the form.</li>
             <li>FR4: The system shall display appropriate messages after successful signup.</li>
-            <li>FR5: The system shall redirect the end user to the login screen after successful signup.</li>
+            <li>FR5: The system shall redirect the end user to the home screen after successful signup.</li>
         </ul>
     </li>
     <li> Log In
@@ -37,57 +37,48 @@ This section provides a comprehensive understanding of the system’s underlying
             <li>FR16: The system shall insert the profile image uploaded by the registered user in the database.</li>  
         </ul>
     </li>
-    <li> Search Recipe
+    <li> Search and View Recipe
         <ul type="1">
-            <li>FR17: The system shall allow the registered user to search for recipes.</li>
-            <li>FR18: the system shall allow the registered user to add filters to the search.</li>
-            <li>FR19: The system shall allow the registered user to search for recipes based on the number of likes on recipes.</li>
-            <li>FR20: The system shall fetch limited data per page.</li>
-            <li>FR21: The system shall allow the registered user to select a recipe from the search list result.</li>
-        </ul>
-    </li>
-    <li> View Recipe
-        <ul type="1">
-            <li>FR22: The system shall allow the registered user to view the recipe selected.</li>
-            <li>FR23: The system shall allow the registered user to save a recipe selected for future reference.</li>
-            <li>FR24: The system shall allow the registered user to view the list of saved recipes.</li>
-            <li>FR25: The system shall allow the registered user to select a recipe from the saved list of recipes.</li>
-            <li>FR26: The system shall allow the registered user to remove a recipe from the saved list of recipes.</li>
+            <li>FR17: The system shall allow the user to search for recipes.</li>
+            <li>FR18: the system shall allow the user to search for recipes based on ingredients.</li>
+            <li>FR19: The system shall fetch limited data per page.</li>
+            <li>FR20: The system shall allow the user to select a recipe from the search list result.</li>
+            <li>FR21: The system shall allow the user to view the recipe selected.</li>
         </ul>
     </li>
     <li> Upload a Recipe
         <ul type="1">
-            <li>FR27: The system shall allow the registered user to upload a recipe.</li>
-            <li>FR28: The system shall allow the registered user to upload an image of the recipe being uploaded.</li>
-            <li>FR29: The system shall allow the registered user to add the recipe instructions of the recipe being uploaded.</li>
-            <li>FR30: The system shall validate the data entered by the user while uploading the recipe.</li>
-            <li>FR31: The system shall display appropriate error messages if the user tries to upload an existing recipe.</li>
-            <li>FR32: The system shall insert the recipe uploaded by the registered user in the database.</li>
+            <li>FR22: The system shall allow the registered user to upload a recipe.</li>
+            <li>FR23: The system shall allow the registered user to upload an image of the recipe being uploaded.</li>
+            <li>FR24: The system shall allow the registered user to add the recipe instructions of the recipe being uploaded.</li>
+            <li>FR25: The system shall validate the data entered by the registered user while uploading the recipe.</li>
+            <li>FR26: The system shall display appropriate error messages if the registered user tries to upload an existing recipe.</li>
+            <li>FR27: The system shall insert the recipe uploaded by the registered user in the database.</li>
         </ul>
     </li>
     <li> Add a Review Comment
         <ul type="1">
-            <li>FR33: The system shall allow the registered user to add a review comment on a recipe.</li>
-            <li>FR34: The system shall insert the comment added by the registered user in the database.</li>
-            <li>FR35: The system shall allow the registered user to view the review published.</li>
-            <li>FR36: The system shall allow the registered user to view other users' review comments on a recipe.</li>
-            <li>FR37: The system shall allow the registered user to update a review comment added by him or her on a recipe.</li>
-            <li>FR38: The system shall update the comment updated by the registered user in the database.</li>
+            <li>FR28: The system shall allow the registered user to add one or more review comments on a recipe.</li>
+            <li>FR29: The system shall insert the comment added by the registered user in the database.</li>
+            <li>FR30: The system shall allow the registered user to view the review published.</li>
+            <li>FR31: The system shall allow the registered user to view other users' review comments on a recipe.</li>
+            <li>FR32: The system shall allow the registered user to update a review comment added by him or her on a recipe.</li>
+            <li>FR33: The system shall update the comment updated by the registered user in the database.</li>
         </ul>
     </li>
     <li> Like a Recipe
         <ul type="1">
-            <li>FR39: The system shall allow the registered user to hit like on a recipe.</li>
-            <li>FR40: The system shall insert the like added by the registered user in the database.</li>
-            <li>FR41: The system shall allow the registered user to remove like on a recipe already liked by him or her.</li>
-            <li>FR42: The system shall update the likes removed by the registered user in the database.</li>
-            <li>FR43: The system shall allow the registered user to view the total number of likes on a recipe.</li>
+            <li>FR34: The system shall allow the registered user to hit like on a recipe.</li>
+            <li>FR35: The system shall insert the like added by the registered user in the database.</li>
+            <li>FR36: The system shall allow the registered user to remove like on a recipe already liked by him or her.</li>
+            <li>FR37: The system shall update the likes removed by the registered user in the database.</li>
+            <li>FR38: The system shall allow the registered user to view the total number of likes on a recipe.</li>
         </ul>
     </li>
     <li> Log Out
         <ul type="1">
-            <li>FR44: The system shall allow the logged-in registered user to log out.</li>
-            <li>FR45: The system shall redirect to the login page after the user logs out successfully.</li>
+            <li>FR39: The system shall allow the logged-in registered user to log out.</li>
+            <li>FR40: The system shall redirect to the home page after the registered user logs out successfully.</li>
         </ul>
     </li>
 </ol>
@@ -117,9 +108,9 @@ This section provides a comprehensive understanding of the system’s underlying
         <ul type="1">
             <li>NFR12: The system should not allow users to see the personal identifiable information (PII) of other users.</li>
             <li>NFR13: The system should not allow non-registered users to see the data.</li>
-            <li>NFR14: The system shouldn’t allow a  non-registered user to upload the recipe. A such attempt should be reported to the administrator.     </li>
+            <li>NFR14: The system shouldn’t allow a  non-registered user to upload the recipe. A such attempt should be reported to the administraton.</li>
             <li>NFR15: The system should not allow users to access the database. Only the administrator would have the access to the database.</li>
-            <li>NFR16: The system shall maintain data integrity by keeping backups of all updates to the database for every record transaction.<li>
+            <li>NFR16: The system shall maintain data integrity by keeping backups of all updates to the database for every record transaction.</li>
         </ul>
     </li>
     <li> Reliability
