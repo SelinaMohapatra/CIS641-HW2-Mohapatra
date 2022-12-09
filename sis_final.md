@@ -176,8 +176,8 @@ This section represents relationship between requirements and other project arti
 |4| [Search and View Recipe](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
 |5| [Upload a Recipe](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
 |6| [Add a Review Comment](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
-|6| [Like a Recipe](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
-|6| [Log Out](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
+|7| [Like a Recipe](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
+|8| [Log Out](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
 
 ## Class Diagram Traceability
 | Artifact Name | Requirement ID |
