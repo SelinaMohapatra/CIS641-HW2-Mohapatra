@@ -163,21 +163,24 @@ We will also request the faculty of the GVSU food course program to support our 
 
 Since GVSU already has an attractive and robust website, we can easily integrate our "The Cook Book" application with it. Instead of merging it into GVSU system, we can add our application link as an external like on the GVSU system by keeping our application servers and databases separate.
 
-## Performance Issue and Monitoring:
-We will continuously monitor the application’s performance and fix bugs. The application follows CI/CD pipeline, deployed on AWS CodePipeline which tests the code before deploying.
+## Continuous Monitoring and Support:
 
-## Availability of the Mobile Application:
-The application will be available in both commanly used operating system - Android and iOS.
+We would continuously monitor the application’s performance and fix bugs. Also,we will be working on new features for continous improvements of the system based on ongoing trends and user feedbacks. 
 
 # Traceability links
 This section represents relationship between requirements and other project artifacts such as class diagram, Use case diagram and activity diagram.
 ## Use Case Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-|1| [Sign In/Login](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_SignIn.pdf) | FR1, FR3, FR6, FR26|
-|2| [Sign Up/Registration](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Email_Verification_Registration.pdf) | FR7-11|
-|3|[Edit Profile](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Edit_Profile.pdf)| FR12-14, FR16|
-|4| [Post/Comment](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
+|1| [Sign Up](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_SignIn.pdf) | FR1, FR3, FR6, FR26|
+|2| [Log In](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Email_Verification_Registration.pdf) | FR7-11|
+|3|[Manage Account](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Edit_Profile.pdf)| FR12-14, FR16|
+|4| [Search and View Recipe](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
+|5| [Upload a Recipe](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
+|6| [Add a Review Comment](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
+|6| [Like a Recipe](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
+|6| [Log Out](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)| FR18-21, FR25|
+
 ## Class Diagram Traceability
 | Artifact Name | Requirement ID |
 | :-------------: |:----------: |
