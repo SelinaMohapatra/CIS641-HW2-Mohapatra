@@ -13,79 +13,79 @@ This section provides a comprehensive understanding of the system’s underlying
             <li>FR1: The system shall provide an user, a sign up option which opens a sign up form.</li>
             <li>FR2: The system shall register the new user when the user fills out the sign up form with a valid details.</li>
             <li>FR3: The system shall validate the user does not use an invalid or existing email address.</li>
-            <li>FR3: The system shall validate the user a secured password meeting standard secured password criteria.</li>
-            <li>FR4: The system shall display appropriate validation messages when the user enter invalid data.</li>
-            <li>FR5: The system shall display welcome message to the user after successful sign up.</li>
-            <li>FR6: The system shall redirect the new user to the home screen after successful signup.</li>
-            <li>FR7: The system shall allow the user to cancel sign up.</li>
+            <li>FR4: The system shall validate the user a secured password meeting standard secured password criteria.</li>
+            <li>FR5: The system shall display appropriate validation messages when the user enter invalid data.</li>
+            <li>FR6: The system shall display welcome message to the user after successful sign up.</li>
+            <li>FR7: The system shall redirect the new user to the home screen after successful signup.</li>
+            <li>FR8: The system shall allow the user to cancel sign up.</li>
         </ul>
     </li>
     <li> Log In
         <ul type="1">
-            <li>FR6: The system shall allow an user to enter his username and password on the login screen of the website.</li>
-            <li>FR6: The system shall validate the email input fields and display appropriate validation message.</li>
-            <li>FR7: The system shall verify user login data entered on the login screen of the website.</li>
-            <li>FR8: The system shall display appropriate error messages if an user enters an invalid username or password.</li>
-            <li>FR9: The system shall allow an user to reset his password by clicking on forgot password.</li>
-            <li>FR10: The system shall allow the user to provide their registered email for password recovery.</li>
-            <li>FR10: The system shall redirect the signed in user to the home screen after successful login.</li>
+            <li>FR9: The system shall allow an user to enter his username and password on the login screen of the website.</li>
+            <li>FR10: The system shall validate the email input fields and display appropriate validation message.</li>
+            <li>FR11: The system shall verify user login data entered on the login screen of the website.</li>
+            <li>FR12: The system shall display appropriate error messages if an user enters an invalid username or password.</li>
+            <li>FR13: The system shall allow an user to reset his password by clicking on forgot password.</li>
+            <li>FR14: The system shall allow the user to provide their registered email for password recovery.</li>
+            <li>FR15: The system shall redirect the signed in user to the home screen after successful login.</li>
         </ul>
     </li>
     <li> Manage Account
         <ul type="1">
-            <li>FR11: The system shall allow the registered user to update their personal information except email.</li>
-            <li>FR12: The system shall allow the user to upload a new/change an existing profile picture.</li>
-            <li>FR13: The system shall allow the registered user to change the password.</li>
-            <li>FR13: The system shall prompt the user for existing password along with the new password when changing the password.</li>
-            <li>FR14: The system shall validate the new password as per the secured password criteria.</li>
-            <li>FR12: The system shall persist the new updated information in the database for the signed in user.</li>
+            <li>FR16: The system shall allow the registered user to update their personal information except email.</li>
+            <li>FR17: The system shall allow the user to upload a new/change an existing profile picture.</li>
+            <li>FR18: The system shall allow the registered user to change the password.</li>
+            <li>FR19: The system shall prompt the user for existing password along with the new password when changing the password.</li>
+            <li>FR20: The system shall validate the new password as per the secured password criteria.</li>
+            <li>FR21: The system shall persist the new updated information in the database for the signed in user.</li>
         </ul>
     </li>
     <li> Search and View Recipe
         <ul type="1">
-            <li>FR17: The system shall allow any user to search and view recipe(s).</li>
-            <li>FR17: The system shall allow an user to search for recipes by name.</li>
-            <li>FR18: the system shall allow an user to search for recipes based on ingredients.</li>
-            <li>FR19: The system shall use pagination to fetch the recipe list.</li>
-            <li>FR20: The system shall allow an user to select a recipe from the search list result.</li>
-            <li>FR21: The system shall allow an user to view the recipe selected.</li>
+            <li>FR21: The system shall allow any user to search and view recipe(s).</li>
+            <li>FR22: The system shall allow an user to search for recipes by name.</li>
+            <li>FR23: the system shall allow an user to search for recipes based on ingredients.</li>
+            <li>FR24: The system shall use pagination to fetch the recipe list.</li>
+            <li>FR25: The system shall allow an user to select a recipe from the search list result.</li>
+            <li>FR26: The system shall allow an user to view the recipe selected.</li>
         </ul>
     </li>
     <li> Upload a Recipe
         <ul type="1">
-            <li>FR22: The system shall allow only logged-in users to upload recipes.</li>
-            <li>FR22: The system shall allow a logged-in user to upload one recipe at a time.</li>
-            <li>FR22: The system shall provide a form to upload the recipe details.</li>
-            <li>FR23: The system shall allow a logged-in user to attach an image to the recipe being uploaded.</li>
-            <li>FR23: The system shall validate the upload recipe form data and display appropriate validation message.</li>
-            <li>FR25: The system shall persist the uploaded recipe in database after successful validation.</li>
-            <li>FR10: The system shall close the upload recipe form and redirect the logged-in user to the upload screen after upload.</li>
+            <li>FR27: The system shall allow only logged-in users to upload recipes.</li>
+            <li>FR28: The system shall allow a logged-in user to upload one recipe at a time.</li>
+            <li>FR29: The system shall provide a form to upload the recipe details.</li>
+            <li>FR30: The system shall allow a logged-in user to attach an image to the recipe being uploaded.</li>
+            <li>FR31: The system shall validate the upload recipe form data and display appropriate validation message.</li>
+            <li>FR32: The system shall persist the uploaded recipe in database after successful validation.</li>
+            <li>FR33: The system shall close the upload recipe form and redirect the logged-in user to the upload screen after upload.</li>
         </ul>
     </li>
     <li> Add a Review Comment
         <ul type="1">
-            <li>FR28: The system shall allow the logged-in user to add one or more review comments on a recipe.</li>
-            <li>FR29: The system shall persist the comment added in the database.</li>
-            <li>FR31: The system shall allow the logged-in user to view all review comments on a recipe.</li>
-            <li>FR32: The system shall allow the logged-in user to edit their review comment.</li>
-            <li>FR32: The system shall allow the logged-in user to delete their review comment.</li>
-            <li>FR33: The system shall update/delete the review comment in the database based on the user action.</li>
+            <li>FR34: The system shall allow the logged-in user to add one or more review comments on a recipe.</li>
+            <li>FR35: The system shall persist the comment added in the database.</li>
+            <li>FR36: The system shall allow the logged-in user to view all review comments on a recipe.</li>
+            <li>FR37: The system shall allow the logged-in user to edit their review comment.</li>
+            <li>FR38: The system shall allow the logged-in user to delete their review comment.</li>
+            <li>FR39: The system shall update/delete the review comment in the database based on the user action.</li>
         </ul>
     </li>
     <li> Like a Recipe
         <ul type="1">
-            <li>FR34: The system shall display the count of total likes on a given recipe.</li>
-            <li>FR34: The system shall allow a logged-in user to like a recipe.</li>
-            <li>FR34: The system shall perist the like action by a logged-in user for a recipe in the database.</li>
-            <li>FR34: The system shall allow a logged-in user to unlike a recipe.</li>
-            <li>FR34: The system shall delete the like record for the logged-in user for the recipe in the database.</li>
-            <li>FR34: The system shall refresh the total like count on the screen when a like or unlike action is performed by the logged-in user.</li>
+            <li>FR40: The system shall display the count of total likes on a given recipe.</li>
+            <li>FR41: The system shall allow a logged-in user to like a recipe.</li>
+            <li>FR42: The system shall perist the like action by a logged-in user for a recipe in the database.</li>
+            <li>FR43: The system shall allow a logged-in user to unlike a recipe.</li>
+            <li>FR44: The system shall delete the like record for the logged-in user for the recipe in the database.</li>
+            <li>FR45: The system shall refresh the total like count on the screen when a like or unlike action is performed by the logged-in user.</li>
         </ul>
     </li>
     <li> Log Out
         <ul type="1">
-            <li>FR39: The system shall allow the logged-in user to log out.</li>
-            <li>FR40: The system shall redirect to the home page after the registered user logs out successfully.</li>
+            <li>FR46: The system shall allow the logged-in user to log out.</li>
+            <li>FR47: The system shall redirect to the home page after the registered user logs out successfully.</li>
         </ul>
     </li>
 </ol>
