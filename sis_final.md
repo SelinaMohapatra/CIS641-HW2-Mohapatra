@@ -145,28 +145,27 @@ This section provides a comprehensive understanding of the system’s underlying
 The purpose of the change management plan is to help manage the change process and minimize the impact a change can have on the application and the stakeholders involved thus reducing the risk and resistance while improving communication and long-term adoption of the new system or process.
 This section will focus on the change management plan for training users, platform availability, performance and issue handling process of "The Cook Book" system. 
 
+This section provides the change management plan for "The Cook Book" application. The main focus is to provide users with training on the application, integrate it into our organization's ecosystem, and continuously monitor the system.
 
-## Why Shareride App?
-ShareRide is a cross-platform mobile application for Grand Valley State
-University, where all students and faculty members can join and share rides. Any
-member of our application can ask for a ride by simply posting a plan, and whichever
-member who has a vehicle can pick up the member who asked for a ride. Alternatively,
-any member who already owns a vehicle can post his/her plan to visit somewhere, and
-whoever fits the schedule can join the trip in first-come-first-serve basis.
+## Why "The Cook Book"?
+
+Learning to cook will help us understand world cultures, customs, and flavors. We will also learn life skills like eating healthy, budgeting our money, and cleaning. But cooking is not easy to learn until we have a proper guide to teach us. And this gave us a thought to develop "The Cook Book" which will be always beside you to help you learn to cook your favorite and delicious food.
+
 ## Training Strategy:
-We will train people/students by proposing this system to the students during
-Students orientation which happens at the start of every new semester and help them
-login to the platform using their GVSU email. Like Uber, the first ride will have some
-offers. The information about the application will be promoted in the form of posters all
-over the campus where the QR code of the app will be provided in the posters.
-## Integration within GVSU ecosystem:
-The ShareRide application will be integrated on myBanner website, a GVSU
-official portal. Since the application is designed for GVSU’s students, it would be
-available to them on their official website. Students can get to know about the application
-and download the application with the QR code in myBanner.
+
+As our primary aim is to make our application reach Students at GVSU, we came up with a strategy, to begin with, advertising our application over the Television all over the campus and through College radio which gives us better reach with less or no expense. We also display QR codes in the television advertisements which on scanning takes them to a portal where they can find more details on how to make use of this application. In addition to that, we will also prepare posters and place them all over the campus with a QR code in it.
+
+Once, after launching the website, an automated suggestion explaining user about the important features of this application will be displayed and this will make users get familiar with the application easily.
+
+We will also request the faculty of the GVSU food course program to support our application by suggesting it to their students in the class who came to GVSU for the food program.
+
+## Integrating within GVSU Software:
+
+Since GVSU already has an attractive and robust website, we can easily integrate our "The Cook Book" application with it. Instead of merging it into GVSU system, we can add our application link as an external like on the GVSU system by keeping our application servers and databases separate.
+
 ## Performance Issue and Monitoring:
-We will continuously monitor the application’s performance and fix bugs. The application follows CI/CD pipeline, deployed on AWS CodePipeline which tests the code
-before deploying.
+We will continuously monitor the application’s performance and fix bugs. The application follows CI/CD pipeline, deployed on AWS CodePipeline which tests the code before deploying.
+
 ## Availability of the Mobile Application:
 The application will be available in both commanly used operating system - Android and iOS.
 
