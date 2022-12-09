@@ -43,49 +43,49 @@ This section provides a comprehensive understanding of the system’s underlying
     </li>
     <li> Search and View Recipe
         <ul type="1">
-            <li>FR21: The system shall allow any user to search and view recipe(s).</li>
-            <li>FR22: The system shall allow an user to search for recipes by name.</li>
-            <li>FR23: the system shall allow an user to search for recipes based on ingredients.</li>
-            <li>FR24: The system shall use pagination to fetch the recipe list.</li>
-            <li>FR25: The system shall allow an user to select a recipe from the search list result.</li>
-            <li>FR26: The system shall allow an user to view the recipe selected.</li>
+            <li>FR22: The system shall allow any user to search and view recipe(s).</li>
+            <li>FR23: The system shall allow an user to search for recipes by name.</li>
+            <li>FR24: the system shall allow an user to search for recipes based on ingredients.</li>
+            <li>FR25: The system shall use pagination to fetch the recipe list.</li>
+            <li>FR26: The system shall allow an user to select a recipe from the search list result.</li>
+            <li>FR27: The system shall allow an user to view the recipe selected.</li>
         </ul>
     </li>
     <li> Upload a Recipe
         <ul type="1">
-            <li>FR27: The system shall allow only logged-in users to upload recipes.</li>
-            <li>FR28: The system shall allow a logged-in user to upload one recipe at a time.</li>
-            <li>FR29: The system shall provide a form to upload the recipe details.</li>
-            <li>FR30: The system shall allow a logged-in user to attach an image to the recipe being uploaded.</li>
-            <li>FR31: The system shall validate the upload recipe form data and display the appropriate validation message.</li>
-            <li>FR32: The system shall persist the uploaded recipe in the database after successful validation.</li>
-            <li>FR33: The system shall close the upload recipe form and redirect the logged-in user to the upload screen after upload.</li>
+            <li>FR28: The system shall allow only logged-in users to upload recipes.</li>
+            <li>FR29: The system shall allow a logged-in user to upload one recipe at a time.</li>
+            <li>FR30: The system shall provide a form to upload the recipe details.</li>
+            <li>FR31: The system shall allow a logged-in user to attach an image to the recipe being uploaded.</li>
+            <li>FR32: The system shall validate the upload recipe form data and display the appropriate validation message.</li>
+            <li>FR33: The system shall persist the uploaded recipe in the database after successful validation.</li>
+            <li>FR34: The system shall close the upload recipe form and redirect the logged-in user to the upload screen after upload.</li>
         </ul>
     </li>
     <li> Add a Review Comment
         <ul type="1">
-            <li>FR34: The system shall allow the logged-in user to add one or more review comments on a recipe.</li>
-            <li>FR35: The system shall persist the comment added in the database.</li>
-            <li>FR36: The system shall allow the logged-in user to view all review comments on a recipe.</li>
-            <li>FR37: The system shall allow the logged-in user to edit their review comment.</li>
-            <li>FR38: The system shall allow the logged-in user to delete their review comment.</li>
-            <li>FR39: The system shall update/delete the review comment in the database based on the user's action.</li>
+            <li>FR35: The system shall allow the logged-in user to add one or more review comments on a recipe.</li>
+            <li>FR36: The system shall persist the comment added in the database.</li>
+            <li>FR37: The system shall allow the logged-in user to view all review comments on a recipe.</li>
+            <li>FR38: The system shall allow the logged-in user to edit their review comment.</li>
+            <li>FR39: The system shall allow the logged-in user to delete their review comment.</li>
+            <li>FR40: The system shall update/delete the review comment in the database based on the user's action.</li>
         </ul>
     </li>
     <li> Like a Recipe
         <ul type="1">
-            <li>FR40: The system shall display the count of total likes on a given recipe.</li>
-            <li>FR41: The system shall allow a logged-in user to like a recipe.</li>
-            <li>FR42: The system shall persist the like action by a logged-in user for a recipe in the database.</li>
-            <li>FR43: The system shall allow a logged-in user to, unlike a recipe.</li>
-            <li>FR44: The system shall delete the like record for the logged-in user for the recipe in the database.</li>
-            <li>FR45: The system shall refresh the total like count on the screen when a like or unlike action is performed by the logged-in user.</li>
+            <li>FR41: The system shall display the count of total likes on a given recipe.</li>
+            <li>FR42: The system shall allow a logged-in user to like a recipe.</li>
+            <li>FR43: The system shall persist the like action by a logged-in user for a recipe in the database.</li>
+            <li>FR44: The system shall allow a logged-in user to, unlike a recipe.</li>
+            <li>FR45: The system shall delete the like record for the logged-in user for the recipe in the database.</li>
+            <li>FR46: The system shall refresh the total like count on the screen when a like or unlike action is performed by the logged-in user.</li>
         </ul>
     </li>
     <li> Log Out
         <ul type="1">
-            <li>FR46: The system shall allow the logged-in user to log out.</li>
-            <li>FR47: The system shall redirect to the home page after the registered user logs out successfully.</li>
+            <li>FR47: The system shall allow the logged-in user to log out.</li>
+            <li>FR48: The system shall redirect to the home page after the registered user logs out successfully.</li>
         </ul>
     </li>
 </ol>
