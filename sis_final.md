@@ -92,57 +92,58 @@ This section provides a comprehensive understanding of the system’s underlying
 
     
 ## Non-Functional Requirements
+
+### Availability and Reliability
+| ID | Requirement |
+| -------------| ---------- |
+| NFR1 | The system should have an availability of 99.999%.|
+| NFR2 | The system should have a failover server in case of failure.|
+| NFR3 | The system shall take database backups every 3 hours to allow recovery.|
+| NFR4 | The system shall support a recovery time objective of 3 hours.|
+| NFR5 | The system shall provide customer support for solving issues faced by the user while accessing the website.|
+
+### Accessibility
+| ID | Requirement |
+| -------------| ---------- |
+| NFR6 | The system shall be rendered on screen in less than 1 second. |
+| NFR7 | The system should retrieve the recipes in less than 2 seconds on screen. |
+| NFR8 | The system should persist/update/delete a comment for a recipe in less than 0.5 seconds. |
+| NFR9 | The system should persist an uploaded recipe in less than 1 second. |
+| NFR10 | The system should update the like count in less than 2 seconds on the like/unlike action. |
+
+### Security:
+| ID | Requirement |
+| -------------| ---------- |
+| NFR11 | The system should not allow users to see the personal identifiable information (PII) of other users. |
+| NFR12 | The system should not allow non-logged-in users to upload recipes. |
+| NFR13 | The system should not allow non-logged-in users to add/update/delete review comments on a recipe. |
+| NFR14 | The system should not allow logged-in users to update/delete review comments of other registered users on a recipe. |
+| NFR15 | The system shall record unsuccessful user login attempts and audit. |
+| NFR16 | The system’s back-end servers shall only be accessible to authenticated administrators. |
+| NFR17 | The system shall follow secure coding practices. | 
+
 ### Performance:
 | ID | Requirement |
 | -------------| ---------- |
-| NFR1 | Application shall handle maximum number of 30K users at a time.|
-| NFR2 | Performace of the application shall be monitored using AWS cloudwatch.|
-| NFR3 | After clicking onto reset password button temporary password shall be sent with a latency of no greater than 1 hour.|
-| NFR4 | Each login and registration request shall be processed in maximum of 10 seconds.|
-| NFR5 | Application shall take no longer than 3 seconds to load when user tries to open it.|
-| NFR6 | All the drawer navigation shall load their respective screens in less 3 seconds.|
-
-### Availability:
-| ID | Requirement |
-| -------------| ---------- |
-| NFR7 | Application shall be up and running 24*7 all the days.|
-| NFR8 | Recent or only upcoming posts shall be available for avoiding storage of large data on database.|
-| NFR9 | Customer support shall be provided if user faces any issue accessing the application.|
-| NFR10 | Temporary password sent to user shall be valid for 4 hours for successful login.|
-| NFR11 | After successful login, users email address shall be stored in AsyncStorage.|
+| NFR18 | The system shall handle a maximum number of 20K users at a time.|
+| NFR19 | The system shall scale up to 30k users and scale down based on the load on the website.|
+| NFR20 | The system should process the login and signup request in less than 2 seconds.|
+| NFR21 | The system shall limit the size of the recipe images for performance optimization. |
+| NFR22 | The system's database should be able to store a minimum of 30k recipes.|
 
 ### Usability:
 | ID | Requirement |
 | -------------| ---------- |
-| NFR12 | Each application UI screen shall be user friendly and in easily understanble format or readable formate.|
-| NFR13 | The user shall experience an aesthetic and minimal design.|
-| NFR14 | The application shall consist of standard visual experience for all users.|
-| NFR15 | The ride booking shall follow first in first out method.|
-| NFR16 | User from any age group shall access app easily.|
-
-### Operational Requirement:
-| ID | Requirement |
-| -------------| ---------- |
-| NFR17 | Application shall be installed or run on both operating systems - Android and iOS.|
-| NFR18 |The system front end UI shall be created using react-native.|
-| NFR19 | System shall be build using expo CLI.|
-| NFR20 | The backend logic shall be implemented using python flask framework.|
-| NFR21 | Application shall run on device regardless of OS update or on switching mobile with new operating system.|
-| NFR22 | Application shall store all of its users and posts/comments data in NoSQL format in DynamicDB of AWS.|
-| NFR23 | Google maps shall be used for entering accurate location while posting a ride detail.|
-| NFR24 | CI/CD pipeline shall be used to make application  available by testing and deploying latest updates.|
-### Security:
-| ID | Requirement |
-| -------------| ---------- |
-| NFR25 | Customer's personal data shall be stored in database in encrypted format.
-| NFR26 | Unsuccessful login of user shall be recorded and audited.
-| NFR27 | User data shall not be shared with any other party.|
-| NFR28 | No user shall have access to delete any post unless they have created that post.|
-| NFR29 | The source coding shall follow secure coding practices.|
+| NFR23 | The system shall be user-friendly and in an easily understandable format or readable format. |
+| NFR24 | The system shall consist of a standard visual experience for all users. |
+| NFR25 | The system shall provide users with an aesthetic and minimal design experience. |
+| NFR26 | The system shall be accessible easily to users of any age group. |
+| NFR27 | The system shall be supported by major web browsers. |
 
 # Change Management Plan:
 
-This section will describe a change management plan for ShareRide application. It will focus on training users, platform availability, performance and issue handling process.
+The purpose of the change management plan is to help manage the change process and minimize the impact a change can have on the application and the stakeholders involved thus reducing the risk and resistance while improving communication and long-term adoption of the new system or process.
+This section will focus on the change management plan for training users, platform availability, performance and issue handling process of "The Cook Book" system. 
 
 
 ## Why Shareride App?
