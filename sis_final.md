@@ -183,11 +183,12 @@ This section represents relationship between requirements and other project arti
 ## Class Diagram Traceability
 | Artifact Name | Requirement ID |
 | :-------------: |:----------: |
-| [User](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/ClassDiagram.pdf) | FR1, FR2, FR7, FR8, FR12-FR14 |
-| [Vehicle](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/ClassDiagram.pdf) | FR8 |
-| [RideDetails](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/ClassDiagram.pdf) | FR18, FR20,21 |
-| [Post/Comment](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/ClassDiagram.pdf) | FR17-23 |
-
+| [User](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Search_View_Recipe_ClassDiagram.pdf) | FR2, FR3, FR9, FR11, FR13, FR16-FR21 | 
+| [SearchRecipe](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Search_View_Recipe_ClassDiagram.pdf) | FR22-FR24 |
+| [RecipeList](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Search_View_Recipe_ClassDiagram.pdf) | FR25 |
+| [RecipeDetail](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Search_View_Recipe_ClassDiagram.pdf) | FR26,FR27 |
+| [AddRecipe](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Upload_Comment_Recipe_ClassDiagram.pdf) | FR28,FR33,FR34 |
+| [CommentOnRecipe](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Upload_Comment_Recipe_ClassDiagram.pdf) | FR35-FR40 |
 
 
 ## Activity Diagram Traceability
