@@ -193,29 +193,29 @@ This section represents relationship between requirements and other project arti
 ## Activity Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| [5](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/LogIn:SignUp_Activity_Diagram.pdf) | Sign Up and Log In | FR1-FR7, FR9-15,NFR1, NFR6, NFR15, NFR20 |
-|[6](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/ViewRecipe_Activity_Diagram.pdf)|Search and View Recipe | FR1-FR7, FR9-15,FR22-FR27,NFR1, NFR6, NFR7, NFR15, NFR20 |
-|[7](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/UploadRecipe_Activity_Diagram.pdf)|  Upload a Recipe | FR1-FR7, FR9-15,FR28-FR34,NFR1, NFR6, NFR7, NFR12,NFR15 |
-|[7](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/ReviewRecipe_Activity_Diagram.pdf)|  Review Comment on a Recipe | R1-FR7, FR9-15,FR22-FR27,FR35-FR40 ,NFR1, NFR6, NFR7,NFR8,NFR13,NFR15 |
+| [5](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/LogIn:SignUp_Activity_Diagram.pdf) | Sign Up and Log In | FR1-FR7, FR9-15, NFR1, NFR6, NFR15, NFR20 |
+|[6](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/ViewRecipe_Activity_Diagram.pdf)|Search and View Recipe | FR1-FR7, FR9-15, FR22-FR27, NFR1, NFR6, NFR7, NFR15, NFR20 |
+|[7](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/UploadRecipe_Activity_Diagram.pdf)|  Upload a Recipe | FR1-FR7, FR9-15, FR28-FR34, NFR1, NFR6, NFR7, NFR12, NFR15 |
+|[7](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/ReviewRecipe_Activity_Diagram.pdf)|  Review Comment on a Recipe | R1-FR7, FR9-15, FR22-FR27, FR35-FR40 , NFR1, NFR6, NFR7, NFR8, NFR13, NFR15 |
 
 
 # Software Artifacts
- [1 - Sign In/Login UseCase](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_SignIn.pdf)
 
- [2 -  Sign Up/Registration UseCase](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Email_Verification_Registration.pdf)
+[Sign Up and Log In Activity Daigram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/LogIn:SignUp_Activity_Diagram.pdf)
 
-[3 - Edit Profile UseCase](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Edit_Profile.pdf)
+[Search and View Recipe Activity Daigram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/ViewRecipe_Activity_Diagram.pdf)
 
-[4 - Post/Comment UseCase](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Use_Case_Post_Comment_Details.pdf)
+[Upload a Recipe Activity Daigram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/UploadRecipe_Activity_Diagram.pdf)
 
- [5 -  Login Activity](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Activity_Diagram_Login.pdf)
+[Review Comment on a Recipe Activity Daigram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/ReviewRecipe_Activity_Diagram.pdf)
 
- [6 -  Edit Profile Activity](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Activity_Diagram_Edit_Profile.pdf)
+[Search and View Recipe ClassDiagram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Search_View_Recipe_ClassDiagram.pdf)
 
-[7 -  SignIn Activity](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Activity_Diagram_Sign_In.pdf)
+[Upload and Comment Recipe ClassDiagram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Upload_Comment_Recipe_ClassDiagram.pdf)
 
-[8 - Behavioral Diagram](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Behavioral_Diagram_Sequence_StateMachine.pdf)
+[Behavioral Diagram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Behavioral_Diagram_Sequence_StateMachine.pdf)
 
-[9 - Combined Class Diagram](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/ClassDiagram.pdf)
+[Combines Class Diagram and Object Diagram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Class%20and%20Object%20Diagram.pdf)
 
-[10 - Combined Use Case and Activity Diagram](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/UseCasesAndADs.pdf)
+
+
