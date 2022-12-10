@@ -143,19 +143,20 @@ This section provides a comprehensive understanding of the system’s underlying
 # Change Management Plan:
 
 The purpose of the change management plan is to help manage the change process and minimize the impact a change can have on the application and the stakeholders involved thus reducing the risk and resistance while improving communication and long-term adoption of the new system or process.
-This section provides the change management plan for "The Cook Book" application. The main focus is to provide users with training on the application, integrate it into our organization's ecosystem, and continuously monitor the system.
+This section provides the change management plan for "The Cook Book" system. The main focus is to provide users with training of the system, integrate it into our organization's ecosystem, and continuously monitor the system.
 
 ## Why "The Cook Book"?
 
-Cooking not only help us understand world cultures, customs, and flavors but also help us learn life skills like eating healthy and budgeting our money. However, in a busy schedule searching for the right recipes of choice based on the ingredients available in the kitchen is a time-consuming job. And this gave us a thought to develop "The Cook Book" a modern recipe sharing website, which aims to provide users with a variety of food recipes from healthy to various gourmet, super quick to fine culinary dishes with the ingredients available to the user.
+Cooking not only helps us to understand the world cultures, customs, and flavors but also help us learn life skills like eating healthy and budgeting our money. However, in a busy schedule searching for the right recipes of choice based on the ingredients available in the kitchen is a time-consuming job. Hence we came up with the idea to develop "The Cook Book" a modern recipe sharing website, which aims to provide users with a variety of food recipes from healthy to various gourmet, super quick to fine culinary dishes with the ingredients available to the user.
 
 ## Training Strategy:
 
-As our primary aim is to make our application reach Students at GVSU, we came up with a strategy, to begin with, advertising our application over the Television all over the campus and through College radio which gives us better reach with less or no expense. We will also display QR codes in the television advertisements which on scanning takes them to a portal where they can find more details on how to make use of this application. In addition to that, we will also prepare posters and place them all over the campus with a QR code in it.
+As our primary aim is to make our application reach Students at GVSU, we came up with a strategy, to begin with, advertising our application over the Television all over the campus and through College radio which gives us better reach with less or no expense. We will also display QR codes in the television advertisements which on scanning takes them to a portal where they can find more details on how to make use of this application. In addition to that, we will also prepare posters which includes the QR code of the website and place them all over the campus .
 
+On the website we would have a demo video for the user 
 Once, after launching the website, an automated suggestion explaining user about the important features of this application will be displayed and this will make users get familiar with the application easily.
 
-We will also request the faculty of the GVSU food course program to support our application by suggesting it to their students in the class who came to GVSU for the food program.
+We will also request the faculty of the GVSU related to the Food and Culinary Science to support our application by suggesting it to the students enrolled in the related courses.
 
 ## Integrating within GVSU Software:
 
@@ -192,9 +193,10 @@ This section represents relationship between requirements and other project arti
 ## Activity Diagram Traceability
 | Artifact ID | Artifact Name | Requirement ID |
 | :-------------: | :----------: | :----------: |
-| [5](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Activity_Diagram_Login.pdf) | Login | FR1-5, NFR2, NFR26 |
-|[6](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Activity_Diagram_Edit_Profile.pdf)|Edit Profile | FR12-16, NFR25, |
-|[7](https://github.com/Purva8852/GVSU-CIS641-Team-S/blob/master/artifacts/functional-models/Activity_Diagram_Sign_In.pdf)|  SignIn | FR2-5, FR8-11, NFR1, NFR3,NFR4, NFR7, NFR10, NFR12, NFR17, NFR16 |
+| [5](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/LogIn:SignUp_Activity_Diagram.pdf) | Sign Up and Log In | FR1-FR7, FR9-15,NFR1, NFR6, NFR15, NFR20 |
+|[6](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/ViewRecipe_Activity_Diagram.pdf)|Search and View Recipe | FR1-FR7, FR9-15,FR22-FR27,NFR1, NFR6, NFR7, NFR15, NFR20 |
+|[7](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/UploadRecipe_Activity_Diagram.pdf)|  Upload a Recipe | FR1-FR7, FR9-15,FR28-FR34,NFR1, NFR6, NFR7, NFR12,NFR15 |
+|[7](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/ReviewRecipe_Activity_Diagram.pdf)|  Review Comment on a Recipe | R1-FR7, FR9-15,FR22-FR27,FR35-FR40 ,NFR1, NFR6, NFR7,NFR8,NFR13,NFR15 |
 
 
 # Software Artifacts
