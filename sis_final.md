@@ -210,9 +210,9 @@ This section represents relationship between requirements and other project arti
 
 [Review Comment on a Recipe Activity Diagram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/ReviewRecipe_Activity_Diagram.pdf)
 
-[Search and View Recipe ClassDiagram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Search_View_Recipe_ClassDiagram.pdf)
+[Search and View Recipe Class Diagram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Search_View_Recipe_ClassDiagram.pdf)
 
-[Upload and Comment Recipe ClassDiagram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Upload_Comment_Recipe_ClassDiagram.pdf)
+[Upload and Comment Recipe Class Diagram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Upload_Comment_Recipe_ClassDiagram.pdf)
 
 [Behavioral Diagram](https://github.com/manchint/GVSU-CIS641-sunrisers_base/blob/master/artifacts/Behavioral_Diagram_Sequence_StateMachine.pdf)
 
